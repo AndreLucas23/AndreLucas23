@@ -18,7 +18,7 @@ Great leadership <br>
 Problems solving <br>
 Teamwork
 
-### Languages
+## Languages
 
 Portuguese-BR <br>
 English <br>
