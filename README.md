@@ -28,6 +28,6 @@ Spanish
 
 ## Social media / contact
 
-[Linkedin](https://www.linkedin.com/in/andré-lima-6a03a6304/)<br>
-E-mail: andrelucascrvg@gmail.com <br>
-Instagram: https://www.instagram.com/lucascrvg23/
+My [Linkedin](https://www.linkedin.com/in/andré-lima-6a03a6304/)<br>
+My [E-mail](andrelucascrvg@gmail.com) <br>
+My [Instagram](https://www.instagram.com/lucascrvg23/)
