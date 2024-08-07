@@ -4,7 +4,7 @@ Juazeiro do Norte, Ceará, Brasil
 
 ## Career
 
-Computer Science - Universidade Federal do Cariri (UFCA)
+Computer Science student - Universidade Federal do Cariri (UFCA)
 
 ## Tecnologies
 
@@ -28,6 +28,6 @@ Spanish
 
 ## Social media / contact
 
-Linkedin: https://www.linkedin.com/in/andré-lima-6a03a6304/ <br>
+[Linkedin](https://www.linkedin.com/in/andré-lima-6a03a6304/)<br>
 E-mail: andrelucascrvg@gmail.com <br>
 Instagram: https://www.instagram.com/lucascrvg23/
