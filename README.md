@@ -6,20 +6,20 @@ Computer Science - Universidade Federal do Cariri (UFCA)
 
 ## Tecnologies
 
-Python
-HTML
-CSS
-Javascript
+Python <br>
+HTML <br>
+CSS <br>
+Javascript <br>
 Swift
 
 ## Skills
 
-Great leadership
-Problems solving
+Great leadership <br>
+Problems solving <br>
 Teamwork
 
 ### Languages
 
-Portuguese-BR
-English
+Portuguese-BR <br>
+English <br>
 Spanish
