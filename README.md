@@ -35,6 +35,6 @@ Computer Science student - Universidade Federal do Cariri (UFCA)
 
 <ul>
   <li><a href='https://www.linkedin.com/in/andré-lima-6a03a6304/'>Linkedin</a></li>
-  <li>My email: andrelucascrvg@gmail.com)</li>
+  <li>E-mail: andrelucascrvg@gmail.com</li>
   <li><a href='https://www.instagram.com/lucascrvg23/'>Instagram</a></li>
 </ul>
