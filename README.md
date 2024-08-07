@@ -1,4 +1,4 @@
-# Hi, i'm André Lucas!
+<h1>Hi, i'm André Lucas!<h1>
 
 Juazeiro do Norte, Ceará, Brasil
 
@@ -7,12 +7,13 @@ Juazeiro do Norte, Ceará, Brasil
 Computer Science student - Universidade Federal do Cariri (UFCA)
 
 ## Tecnologies
-
-Python <br>
-HTML <br>
-CSS <br>
-Javascript <br>
-Swift
+<ul>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Swift</li>
+</ul>
 
 ## Skills
 
