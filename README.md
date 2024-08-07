@@ -1,4 +1,4 @@
-<h1>Hi, i'm André Lucas!<h1>
+<h1>Hi, i'm André Lucas!</h1>
 
 Juazeiro do Norte, Ceará, Brasil
 
@@ -17,18 +17,24 @@ Computer Science student - Universidade Federal do Cariri (UFCA)
 
 ## Skills
 
-Great leadership <br>
-Problems solving <br>
-Teamwork
+<ul>
+  <li>Great leadership</li>
+  <li>Problems solving</li>
+  <li>Teamwork</li>
+</ul>
 
 ## Languages
 
-Portuguese-BR <br>
-English <br>
-Spanish
+<ul>
+  <li>Portuguese-BR</li>
+  <li>English</li>
+  <li>Spanish</li>
+</ul>
 
 ## Social media / contact
 
-My [Linkedin](https://www.linkedin.com/in/andré-lima-6a03a6304/)<br>
-My [E-mail](andrelucascrvg@gmail.com) <br>
-My [Instagram](https://www.instagram.com/lucascrvg23/)
+<ul>
+  <li>[Linkedin](https://www.linkedin.com/in/andré-lima-6a03a6304/)<br></li>
+  <li>[E-mail](andrelucascrvg@gmail.com)<br></li>
+  <li>[Instagram](https://www.instagram.com/lucascrvg23/)</li>
+</ul>
