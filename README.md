@@ -1,5 +1,6 @@
 # Hi, i'm André Lucas!
-## Juazeiro do Norte, Ceará, Brasil
+
+Juazeiro do Norte, Ceará, Brasil
 
 ## Career
 
