@@ -4,7 +4,7 @@
 
 ## Career
 
-Juazeiro do Norte, Ceará, Brasil
+Juazeiro do Norte, Ceará, Brasil <br>
 Computer Science student - Universidade Federal do Cariri (UFCA)
 
 ## Tecnologies
@@ -35,5 +35,5 @@ Computer Science student - Universidade Federal do Cariri (UFCA)
 ## Social media / contact
 
 <ul>
-  <li>My e-mail: andrelucascrvg@gmail.com</li>
+  <li>Contact e-mail: andrelucascrvg@gmail.com</li>
 </ul>
