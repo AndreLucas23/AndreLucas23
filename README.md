@@ -7,13 +7,12 @@
 Juazeiro do Norte, Ceará, Brasil <br>
 Computer Science student - Universidade Federal do Cariri (UFCA)
 
-## Tecnologies
+## Technologies
 <ul>
   <li>Python</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Swift</li>
 </ul>
 
 ## Skills
