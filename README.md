@@ -1,6 +1,6 @@
 <h1>Hi, i'm André Lucas!</h1>
 <a href='https://www.linkedin.com/in/andré-lima-6a03a6304/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'></a>
-<a href='https://www.instagram.com/lucascrvg23/'><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white'></a>
+<a href='https://www.instagram.com/lucascrvg23/?next=%2F'><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white'></a>
 
 ## Career
 
