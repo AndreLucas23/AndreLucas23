@@ -34,5 +34,5 @@ Computer Science student - Universidade Federal do Cariri (UFCA)
 ## Social media / contact
 
 <ul>
-  <li>Contact e-mail: andrelucascrvg@gmail.com</li>
+  <li>Contact e-mail: sl.andrelucas@gmail.com</li>
 </ul>
