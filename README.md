@@ -11,19 +11,31 @@ Computer Science student - Universidade Federal do Cariri (UFCA)
 
 <ul>
   <li>Back-end</li>
-    <li>Python</li>
-        <li>Django</li>
-        <li>Flask</li>
+    <ul>
+      <li>Python</li>
+        <ul>
+          <li>Django</li>
+          <li>Flask</li>
+        </ul>
       <li>Java</li>
-        <li>Spring Boot</li>
+        <ul>
+          <li>Spring Boot</li>
+        </ul>
+    </ul>
   <li>Front-end</li>
-    <li>React</li>
+    <ul>
+      <li>React</li>
+      <li>Bootstrap</li>
+    </ul>
   <li>Databases</li>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
+    <ul>
+      <li>MySQL</li>
+      <li>PostgreSQL</li>
+    </ul>
   <li>DevOps</li>
-    <li>Docker</li>
-  
+    <ul>
+      <li>Docker</li>
+    </ul>
 </ul>
 
 ## Skills 👥
@@ -38,14 +50,26 @@ Computer Science student - Universidade Federal do Cariri (UFCA)
 
 <ul>
   <li>Portuguese-BR</li>
+    <ul>
+      <li>Native</li>
+    </ul>
   <li>English</li>
-  <li>French</li>
+    <ul>
+      <li>Advanced (C1)</li>
+    </ul>
   <li>Spanish</li>
+    <ul>
+      <li>Intermediate</li>
+    </ul>
+  <li>French</li>
+    <ul>
+      <li>Beginner</li>
+    </ul>
 </ul>
 
 ## Social media / contact 📞
 
 <ul>
   <li>Contact e-mail: sl.andrelucas@gmail.com</li>
-  <li>Leetcode profile: https://leetcode.com/u/lucascrvg23/<\li>
+  <li>Leetcode profile: https://leetcode.com/u/lucascrvg23/</li>
 </ul>
