@@ -24,6 +24,10 @@ Computer Science student - Universidade Federal do Cariri (UFCA)
         <ul>
           <li>Spring Boot</li>
         </ul>
+      <li>Typescript</li>
+        <ul>
+          <li>Next.js</li>
+        </ul>
     </ul>
   <li>Front-end</li>
     <ul>
